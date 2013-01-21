@@ -1,0 +1,5 @@
+NAME="sugar-TurtleConfusion"
+VERSION=149
+RELEASE=2
+SUGAR_TYPE="Honey"
+inherit sugar
